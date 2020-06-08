@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Yennefer of Vengerberg",
+    "profession": "Mage",
+    "age": "100"
+  },
+  {
+    "name": "Triss Merigold",
+    "profession": "Mage",
+    "age": "50"
+  },
+  {
+    "name": "Ciri",
+    "profession": "Witcher",
+    "age": "16"
+  }
+]
